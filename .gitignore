@@ -7,7 +7,7 @@
 *.jsonl.bz2.part.3
 *.jsonl.bz2.part.4
 *.jsonl.bz2.part.5
-
+*.zip
 *.json
 *.tar
 *.faiss
