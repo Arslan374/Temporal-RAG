@@ -1,0 +1,8 @@
+transformers
+torch
+faiss-gpu
+scikit-learn
+numpy
+sentence-transformers
+pandas
+
